@@ -93,7 +93,7 @@ public class Main {
         System.out.println();
 
 
-        /*ВОСЬМОЕ ЗАДАНИЕ*/
+        /*ВОСЬМОЕ ЗАДА2НИЕ*/
 
         int mashaSalary = 67760;
         int denisSalary = 83690;
